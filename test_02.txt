@@ -1,0 +1,20 @@
+.\oop_exercise_08.exe 1
+0. Show menu.
+1. Enter trapezoid.
+2. Enter rhombus.
+3. Enter pentagon.
+4. Quit the program without publishing.
+Enter option: 3
+Enter coordinates of center and radius: 
+4 4 2
+Pentagon: (2.09789, 4.61804)(4, 6)(5.90211, 4.61804)(5.17557, 2.38197)(2.82443, 2.38197)
+Enter option: 2
+Enter coordinates of left and bottom vertices: 
+-1 0 0 -1
+Rhombus: (-1, 0)(0, -1)(1, 0)(0, 1)
+Enter option: 4
+В результате работы программы были сгенерированы следующие файлы:
+0.txt:
+Pentagon: (2.09789, 4.61804)(4, 6)(5.90211, 4.61804)(5.17557, 2.38197)(2.82443, 2.38197)
+1.txt:
+Rhombus: (-1, 0)(0, -1)(1, 0)(0, 1)
